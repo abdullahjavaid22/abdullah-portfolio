@@ -12,7 +12,7 @@ const SKILL_GROUPS = [
   {
     title: "Backend",
     accent: "#8b5cf6", // violet-500
-    skills: ["Node.js", "Express", "PHP", "MongoDB", "MySQL", "PostgreSQL"],
+    skills: ["Node.js", "Express", "PHP", "MongoDB", "MySQL", "PostgreSQL", "Supabase"],
   },
   {
     title: "Tools",
