@@ -49,7 +49,7 @@ export default function Hero() {
             className="text-xl md:text-2xl font-medium mb-6"
             style={{ color: isDark ? "#94a3b8" : "#4b5563" }}
           >
-            Web Developer and Digital Marketer
+            Web Developer 
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 30 }}
