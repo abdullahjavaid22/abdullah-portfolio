@@ -118,7 +118,7 @@ export default function QuoteSection() {
           }}
         >
           <div style={{ display: "flex", gap: "10px", marginBottom: "16px" }}>
-            <span style={{ color: "#22c55e", fontSize: "0.9rem" }}>abdullah@portfolio</span>
+            <span style={{ color: "#22c55e", fontSize: "0.9rem" }}>abdullahdev22</span>
             <span style={{ color: "#64748b", fontSize: "0.9rem" }}>:~$</span>
             <span style={{ color: "#e2e8f0", fontSize: "0.9rem" }}>Your Daily Quote</span>
           </div>
